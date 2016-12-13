@@ -1,4 +1,4 @@
-# JavaTechnologyPOC
+# JavaTechnology-POCP
 Proof Of Concepts Programs [POCP] for Java Technology
 
 Over years, I have found that learners get great confidence in an Assertion when it is supported by a program that proves the Assertion. These Programs apart from reasonably proving the assertion also convey the tacit scope of the given Assertion. Several salient scenarios encompassing the Assertion can be represented by a set of Programs. These set of Programs become a concrete evidence and articulate in programmatic terms the context, assumptions, limitations and implications of the underlying Assertion.
