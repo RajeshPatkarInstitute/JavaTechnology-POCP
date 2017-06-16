@@ -1,3 +1,5 @@
+package com.rajeshpatkar;
+
 public class AStack {
  
     private int[] stk = new int[10];
