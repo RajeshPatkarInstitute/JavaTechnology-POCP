@@ -35,4 +35,5 @@ public class AStack {
             System.out.println(stk[i]);
         }
     }
+ 
 }
