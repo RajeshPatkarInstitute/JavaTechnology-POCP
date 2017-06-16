@@ -21,4 +21,5 @@ public class Client1 {
         System.out.println("Pop Count is "+s.getPopcount());
         System.out.println("Leaving Auditor for AStack");
     }
+    
 }
