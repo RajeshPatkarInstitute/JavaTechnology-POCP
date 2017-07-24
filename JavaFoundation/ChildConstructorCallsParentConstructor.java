@@ -11,11 +11,11 @@ public class ChildConstructorCallsParentConstructor {
         System.out.println("Child Constructor always calls Parent Constructor\n");
         System.out.println("Creating Parent Object");
         C1 obj1 = new C1();
-        System.out.println("Creation of Object with hash code "
+        System.out.println("Creation of Parent Object with hash code "
                 + obj1.hashCode() + " completed\n");
         System.out.println("Creating Child Object");
         C2 obj2 = new C2();
-        System.out.println("Creation of Object with hash code "
+        System.out.println("Creation of Child Object with hash code "
                 + obj2.hashCode() + " completed");
     }
 
